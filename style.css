@@ -1,5 +1,5 @@
 body {
- font-family: Arial. sans-serif:
+font-family: Arial. sans-serif:
  color: #333:
  background-color: #f9f9f9:
  margin: 0:
@@ -8,7 +8,7 @@ body {
 }
 
 header {
- background-color: #4CAF50:
+background-color: #4CAF50:
  color: white:
  padding: 20px: 
  text-align: center:
@@ -29,7 +29,7 @@ nav a:hover {
 }
 
 main img {
- max-width: 100%:
+ max-width: 100 %:
  height: auto:
  display: block:
  margin: 20px 0:
@@ -46,7 +46,7 @@ footer {
 }
 
 p {
- font-size: 1.1em:
+ font-size: 1.1 em:
 {
 
 a {
@@ -59,12 +59,12 @@ a:hover {
 }
 
 img { 
- border: 5px solid #4CAF50:
- border-radius: 10px:
+ border: 5 px solid #4CAF50:
+ border-radius: 10 px:
 }
 
-main a [href ="mailto:"] {
+main a  [href ="mailto:"] {
  color: #ff5722:
  font-weight: bold:
 }
-t
+
