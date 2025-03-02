@@ -29,7 +29,7 @@ nav a:hover {
 }
 
 main img {
- max-width: 100%:
+ max-width: 100 %:
  height: auto:
  display: block:
  margin: 20px 0:
@@ -46,7 +46,7 @@ footer {
 }
 
 p {
- font-size: 1.1em:
+ font-size: 1.1 em:
 {
 
 a {
@@ -59,8 +59,8 @@ a:hover {
 }
 
 img { 
- border: 5px solid #4CAF50:
- border-radius: 10px:
+ border: 5 px solid #4CAF50:
+ border-radius: 10 px:
 }
 
 main a [href ="mailto:"] {
